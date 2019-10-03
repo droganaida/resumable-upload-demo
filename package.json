@@ -1,0 +1,20 @@
+{
+  "name": "resumable-upload-demo-blondiecode",
+  "version": "1.0.0",
+  "description": "Large file resumable upload - Resumable.js demo by #BlondieCode",
+  "main": "app.js",
+  "scripts": {
+    "dev": "NODE_ENV=development node app.js",
+    "pro": "NODE_ENV=production node app.js"
+  },
+  "author": {
+    "name": "Aida Drogan",
+    "email": "aida.drogan.box@gmail.com",
+    "url": "https://www.youtube.com/c/AidaDrogan"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.17.1"
+  }
+}
